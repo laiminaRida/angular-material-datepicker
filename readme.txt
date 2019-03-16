@@ -1,1 +1,1 @@
-test
+a sample example how to use a datepicker with material.
